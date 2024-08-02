@@ -27,13 +27,17 @@ Your goal is to survive as long as possible by avoiding and shooting asteroids. 
 
 ## Controls
 The basic controls are:
-- W,A,S,D and arrow keys for movement
-- [Enter] and [Spacebar] for shooting
+• W,A,S,D and arrow keys for movement
+• [Enter] and [Spacebar] for shooting
 
 ## Game Features
-**Multiple Lives:** Start with 3 lives and lose them by colliding with asteroids.
-**Point System:** Earn points for destroying asteroids.
-**Dynamic Difficulty:** Asteroid speed increases as points accumulate.
-**Explosion Effects:** Visual and sound effects when the ship explodes.
-**Sound Effects:** Includes sound effects for bullet firing and asteroid explosions.
+• **Multiple Lives:** Start with 3 lives and lose them by colliding with asteroids.
+
+• **Point System:** Earn points for destroying asteroids.
+
+• **Dynamic Difficulty:** Asteroid speed increases as points accumulate.
+
+• **Explosion Effects:** Visual and sound effects when the ship explodes.
+
+• **Sound Effects:** Includes sound effects for bullet firing and asteroid explosions.
 
