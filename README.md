@@ -3,23 +3,10 @@
 A classic arcade-style game where the player controls a spaceship to navigate through space, avoiding and destroying asteroids. The asteroids increase in speed as the player continues to score.
 
 ## Table of Contents
-1. [Installation](#installation)
-2. [How to Play](#how-to-play)
-3. [Controls](#controls)
-4. [Game Features](#game-features)
+1. [How to Play](#how-to-play)
+2. [Controls](#controls)
+3. [Game Features](#game-features)
 
-## Installation
-
-1. **Python and Pygame:** Make sure you have Python installed on your system. 
-
-2. **Install Pygame:**
-   - You can install Pygame using pip:
-     ```
-     pip install pygame
-     ```
-
-3. **Download the Game Files:** 
-   - Clone the repository or download the game files to your local machine.
 
 ## How to Play
 
