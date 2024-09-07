@@ -14,7 +14,9 @@ Your goal is to survive as long as possible by avoiding and shooting asteroids. 
 
 ## Controls
 The basic controls are:
+
 • W,A,S,D and arrow keys for movement
+
 • [Enter] and [Spacebar] for shooting
 
 ## Game Features
