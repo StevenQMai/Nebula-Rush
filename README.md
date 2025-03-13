@@ -1,4 +1,4 @@
-# Asteroids Game
+# Nebula Rush
 
 A classic arcade-style game where the player controls a spaceship to navigate through space, avoiding and destroying asteroids. The asteroids increase in speed as the player continues to score.
 
